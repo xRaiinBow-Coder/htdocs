@@ -1,0 +1,39 @@
+
+.me img:first-child {
+    border-radius: 50%;
+    box-shadow: 4px 4px 4px 4px lightgreen;
+    
+}
+
+.me img:last-child {
+    position: absolute;
+    top: 450px;
+    left: 650px;
+    border-radius: 50%;
+}
+
+.me {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   padding-top: 125px;
+   padding-right: 50%;
+    
+}
+
+
+h1 {
+    position: absolute;
+    top: 115px;
+    left: 850px;
+
+}
+
+p {
+    position: fixed;
+    top: 165px;
+    left: 700px;
+    line-height: 1;
+    
+}
+
