@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <link rel="stylesheet" href="style.css">
     <link rel="stylesheet" href="main.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <meta charset="UTF-8">
@@ -30,7 +29,7 @@
     <div class="me">
         <img src="me.jpg" alt="image" height="350px" width="350px">
         <img src="code.jpg" alt="image">
-        <img src="PlanetE.png" alt="image" height="700px" width="700px">
+        <img src="PlanetE.png" alt="image" height="750px" width="750px">
 
     </div>
 
