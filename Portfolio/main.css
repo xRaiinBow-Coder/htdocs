@@ -1,24 +1,45 @@
 
-.me img:first-child {
-    border-radius: 50%;
-    box-shadow: 4px 4px 4px 4px lightgreen;
-    
-}
-
-.me img:last-child {
-    position: absolute;
-    top: 450px;
-    left: 650px;
-    border-radius: 50%;
+* {
+   background-color: white;
 }
 
 .me {
-   display: flex;
-   justify-content: center;
-   align-items: center;
-   padding-top: 125px;
-   padding-right: 50%;
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 125px;
+    padding-right: 50%;
+    background-color: transparent;
+    z-index: 1;
+     
+ }
+
+.me img:nth-child(1) {
+    border-radius: 50%;
+    box-shadow: 4px 4px 4px 4px lightgreen;
+    z-index: 1;
+}
+
+.me img:nth-child(2) {
+    position: absolute; 
+    bottom: 10%; 
+    left: 75%; 
+    z-index: 5; 
+    object-fit: cover; 
+    opacity: 0.8; 
+
+}
+
+.me img:nth-child(3) {
+    position: absolute; 
+    top: 3%; 
+    left: 5%; 
+    object-fit: cover; 
+    opacity: 0.8; 
+    transform: rotate(45deg);
+    background-color: transparent;
+    z-index: 0;
+
 }
 
 
@@ -37,3 +58,87 @@ p {
     
 }
 
+
+.Nav ul {
+    list-style-type: none;
+    margin: 0 auto;
+    padding: 10px;
+    white-space: nowrap;  
+    border: solid black;
+    border-radius: 25px;
+    overflow: hidden;
+    background-color: black;
+}
+
+.Nav li {
+    display: inline-block;
+    margin-right: 10px;
+    background-color: transparent;
+}
+
+.Nav li a {
+    display: block;
+    padding: 10px 20px; 
+    text-decoration: none;
+    color: black;
+    background-color: lightgreen;
+    border-radius: 45px;
+
+}
+
+.Nav li a:hover {
+    color: white;
+    background-color: darkgreen; 
+    transform: rotate(0deg) skew(0deg) translate(0, -10px);
+}
+
+.Button ul {
+    position: absolute;
+    top: 40%;
+    left: 14.5%;
+    transform: translate(-50%, -50%);
+    display: flex;
+    flex-direction: column; 
+    align-items: center; 
+    padding: 0;
+    background-color: transparent;
+    margin: 0; 
+}
+
+.Button ul li {
+    list-style: none;
+    margin: 5px 0px;
+    background-color: transparent;
+}
+
+.Button ul li .fa {
+    font-size: 25px;
+    line-height: 50px;
+    color: black;
+    transition: .5s;
+    background-color: transparent;
+}
+
+.Button ul li a {
+    position: relative;
+    display: block;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: lightgreen;
+    text-align: center;
+    transition: 0.5s;
+    transform: translate(0,0px);
+}
+
+.Button ul li:nth-child(1) a:hover {
+    background-color: #3b5999;
+}
+
+.Button ul li:nth-child(2) a:hover {
+    background-color: #2b3137;
+}
+
+.Button ul li:nth-child(3) a:hover {
+    background-color: #feda75;
+}
