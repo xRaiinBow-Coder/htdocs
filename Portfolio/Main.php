@@ -35,7 +35,7 @@
         </p>
 
         <div class="title2">
-            <h1 class="Heading2">Coder</h1>
+            <h1 class="Heading2">About</h1>
             <p class="about2">
             fdshfhsjdkhfjksdjkfhkjsdhfjkhsdjkfhkjsdhkjfhsdkjhfkjsdhkjfhsdkjhk<br>
             fsdhfksdfjksdhfkjsdjkfhkjsdhkjfhskjdhfkjsdhkjfhkjsdfkjsdkjfhkjsdh<br>
