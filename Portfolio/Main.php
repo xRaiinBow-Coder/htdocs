@@ -63,4 +63,16 @@
 </body>
 </html>
 <?php
+    if(isset($_GET['Facebook'])) {
+        header("location: https://www.facebook.com/");
+    }
+    
+    if(isset($_GET['Github'])) {
+        header("location: https://github.com/xRaiinBow-Coder");
+    }
+    
+    if(isset($_GET['Instagram'])) {
+        header("location: https://www.instagram.com/");
+    }
+    
 ?>
