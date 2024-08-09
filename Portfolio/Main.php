@@ -14,7 +14,16 @@
             <li><a href="">Portfolio</a></li>
             <li><a href="">Contacts</a></li>
         </ul>
+        <div class="Button">
+            <ul>
+                <li><a href="#"><i class="fa fa-facebook"></i></a></li>
+                <li><a href="#"><i class="fa fa-github"></i></a></li>
+                <li><a href="#"><i class="fa fa-instagram"></i></a></li>
+            </ul>
     </div>
+    </div>
+
+    
 </head>
 <body>
 
@@ -32,7 +41,7 @@
         <img src="PlanetE.png" alt="image" height="750px" width="750px">
 
     </div>
-
+    <!---
     <div class="Button">
         <ul>
             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -40,6 +49,7 @@
             <li><a href="#"><i class="fa fa-instagram"></i></a></li>
         </ul>
     </div>
+    -->
 
 </body>
 </html>
