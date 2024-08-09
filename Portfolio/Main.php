@@ -10,7 +10,7 @@
     <div class="Nav">
         <ul>
             <li><a href="main.php">Home</a></li>
-            <li><a href="">Aboute</a></li>
+            <li><a href="">About</a></li>
             <li><a href="">Portfolio</a></li>
             <li><a href="">Contacts</a></li>
         </ul>
@@ -19,11 +19,11 @@
 <body>
 
     <div class="title">
-        <h1>About me</h1>
-        <p class="About-me">
-            fdshfhsjdkhfjksdjkfhkjsdhfjkhsdjkfhkjsdhkjfhsdkjhfkjsdhkjfhsdkjhk
-            fsdhfksdfjksdhfkjsdjkfhkjsdhkjfhskjdhfkjsdhkjfhkjsdfkjsdkjfhkjsdh
-            fshdfhjksdjkfhsdkjhfkjsdkjfhsdjkhfjksdhkjfhsdjkhfkjsdhfkjhsdkjhfk
+        <h1>Kieran Jefferson</h1>
+        <p class="About">
+        fdshfhsjdkhfjksdjkfhkjsdhfjkhsdjkfhkjsdhkjfhsdkjhfkjsdhkjfhsdkjhk<br>
+        fsdhfksdfjksdhfkjsdjkfhkjsdhkjfhskjdhfkjsdhkjfhkjsdfkjsdkjfhkjsdh<br>
+        fshdfhjksdjkfhsdkjhfkjsdkjfhsdjkhfjksdhkjfhsdjkhfkjsdhfkjhsdkjhfk<br>
         </p>
     </div>
     <div class="me">
