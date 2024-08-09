@@ -5,14 +5,13 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Main Page</title>
-    
+    <title>Main Page</title>  
     <div class="Nav">
         <ul>
-            <li><a href="main.php">Home</a></li>
-            <li><a href="">About</a></li>
-            <li><a href="">Portfolio</a></li>
-            <li><a href="">Contacts</a></li>
+            <li><a href="Main.php">Home</a></li>
+            <li><a href="About.php">About</a></li>
+            <li><a href="Portfolio.php">Portfolio</a></li>
+            <li><a href="Contacts.php">Contacts</a></li>
         </ul>
         <div class="Button">
             <ul>
@@ -63,16 +62,21 @@
 </body>
 </html>
 <?php
-    if(isset($_GET['Facebook'])) {
-        header("location: https://www.facebook.com/");
-    }
-    
-    if(isset($_GET['Github'])) {
-        header("location: https://github.com/xRaiinBow-Coder");
-    }
-    
-    if(isset($_GET['Instagram'])) {
-        header("location: https://www.instagram.com/");
-    }
-    
+    if(isset($_GET['Page'])) {
+        switch ($_GET['Page']) {
+            case 'About':
+                header("Location: About.php");
+                exit();
+            case 'Portfolio':
+                header("Location: Portfolio.php");
+                exit();
+            case 'Contacts':
+                header("Location: Contacts.php");
+            default:
+                header("Location: Main.php");
+                exit();
+        }
+    } else {
+        header("Loaction: Main.php");
+    } 
 ?>
