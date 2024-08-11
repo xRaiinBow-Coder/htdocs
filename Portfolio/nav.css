@@ -1,0 +1,45 @@
+.Nav {
+    position: fixed;
+    z-index: 5;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: black; /* Navbar background color */
+    padding: 15px 0;
+    min-height: 40px; /* Ensures minimum height */
+}
+
+.Nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    white-space: nowrap;  
+    overflow: hidden;
+    text-align: right;
+}
+
+.Nav li {
+    display: inline-block;
+    margin-right: 10px;
+    background-color: transparent;
+}
+
+.Nav li a {
+    display: block;
+    padding: 10px 20px; 
+    text-decoration: none;
+    color: black;
+    background-color: lightgreen; /* Button background color */
+    border-radius: 45px;
+}
+
+.Nav li a:hover {
+    color: white;
+    background-color: rgb(32, 175, 223); 
+    transform: rotate(0deg) skew(0deg) translate(0, -3px);
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}

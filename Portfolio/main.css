@@ -62,10 +62,6 @@
     left: 250px;
     line-height: 1;
 
-    width: 400px;
-    white-space: nowrap;
-    overflow: hidden;
-    animation: typing1 2s steps(30), blink-caret1 0.4s step-end infinite alternate;
  
 }
 
@@ -77,18 +73,6 @@
 
 }
 
-
-@keyframes typing1 {
-    from {width:0}
-    to {width: 400px}
-}
-
-
-@keyframes blink-caret1 {
-    from, to {border-colour: transparent}
-}
-
-
 .Nav {
     position: fixed;
     z-index: 5;
@@ -98,26 +82,25 @@
     background-color: black;
     padding: 15px 0;
 
-}
+} 
 
 .Nav ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     white-space: nowrap;  
-    /*border-radius: 25px;*/
     overflow: hidden;
     background-color: black;
     z-index: 5;
     text-align: right;
-}
+} 
 
 .Nav li {
     display: inline-block;
     margin-right: 10px;
     background-color: transparent;
  
-}
+} 
 
 .Nav li a {
     display: block;
@@ -127,7 +110,7 @@
     background-color: lightgreen;
     border-radius: 45px;
 
-}
+} 
 
 .Nav li a:hover {
     color: white;
