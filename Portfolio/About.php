@@ -43,7 +43,7 @@
     </div>
 
     <div class="InterestButtons">
-        <button class="2">Steam</button>
+        <button class="2"></button>
     </div>
 
     <div class="Picture">

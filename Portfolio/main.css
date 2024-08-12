@@ -44,15 +44,29 @@ body.A{
 }
 
 .Heading {
+    font-size: 4rem;
     position: absolute;
-    top: 250px;
-    left: 350px;
+    top: 200px;
+    left: 300px;
+    background-image: linear-gradient(to top, red 0%, black 100% );
+    background-color: rgb(32, 175, 223);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
 }
 
 .Heading2 {
+    font-size: 4rem;
     position: absolute;
-    top: 250px;
-    right: 445px;
+    top: 200px;
+    right: 400px;
+    background-image: linear-gradient(to top, red 0%, black 100% );
+    background-color: rgb(32, 175, 223);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
 }
 
 
@@ -227,12 +241,19 @@ body.B {
 }
 
 .new {
+    font-size: 4rem;
     position: absolute;
-    top: 25%;
+    top: 19%;
     left: 40%;
     width: fit-content;
     white-space: nowrap;
     overflow: hidden;
+    background-image: linear-gradient(to top, black 0%,green 100% );
+    background-color: rgb(32, 175, 223);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -moz-background-clip: text;
+    -moz-text-fill-color: transparent;
 
 
     color: black;
@@ -255,6 +276,7 @@ body.B {
 }
 
 .description {
+    font-size:medium;
     position: absolute;
     top: 30%;
     right: 30%;
