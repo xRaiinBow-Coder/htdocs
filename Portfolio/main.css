@@ -1,5 +1,5 @@
 
-* {
+body.A{
    background-color: lightgrey;
    overflow: hidden;
 }
@@ -167,5 +167,116 @@
 
 .Button ul li:nth-child(3) a:hover {
     background-color: #feda75;
+}
+
+.Footer1 {
+    position: absolute;
+    bottom: 0;
+    z-index: 10;
+    background-color:black;
+    width: 100%;
+    padding: 20px;
+    overflow: hidden;
+    left: 0;
+}
+
+
+/* about me page*/
+
+body.B {
+    background-color: #ADD8E6;
+}
+
+
+
+.Picture img:nth-child(1){
+    border-radius: 45%;
+    position: absolute;
+    top: 20%;
+    left: 20%;
+    z-index: 1;
+
+}
+
+.Picture img:nth-child(2){
+    position: absolute;
+    bottom: 0%;
+    right: 0%;
+    opacity: 0.9;
+
+}
+
+.Picture img:nth-child(3){
+    position: absolute;
+    bottom: 2%;
+    right: 0;
+    opacity: 0.8;
+    width: 100%;
+
+}
+
+.Footer2 {
+    position: absolute;
+    bottom: 0;
+    z-index: 10;
+    background-color:black;
+    width: 100%;
+    min-height: 40px;
+    max-height: 60px;
+    overflow: hidden;
+}
+
+.new {
+    position: absolute;
+    top: 25%;
+    left: 40%;
+    width: fit-content;
+    white-space: nowrap;
+    overflow: hidden;
+
+
+    color: black;
+    animation: typing 3s steps(40, end)infinite, blink-caret 0.75s step-end infinite;
+}
+
+@keyframes typing {
+ from {width: 0}
+ to {width: 100%;}
+}
+
+@keyframes deleting {
+    from {width: 100%;}
+    to {width: 0;}
+}
+
+@keyframes blink-caret {
+    from, to { border-color: transparent; }
+    50% { border-color: black; }
+}
+
+.description {
+    position: absolute;
+    top: 30%;
+    right: 30%;
+    line-height: 1.2;
+    font-family: "Times New Roman", Times, serif;
+}
+
+.hobbies .i{
+    position: absolute;
+    top: 10%;
+    right: 5%;
+    line-height: 1.2;
+    text-decoration: underline;
+
+}
+
+.HELP {
+    position: absolute;
+    list-style-type: square;
+    line-height: 1;
+    top: 17%;
+    right: 14%;
+
 }
 
