@@ -35,7 +35,7 @@
         </p>
 
         <div class="title2">
-            <h1 class="Heading2">About</h1>
+            <h1 class="Heading2">Performer</h1>
             <p class="about2">
             fdshfhsjdkhfjksdjkfhkjsdhfjkhsdjkfhkjsdhkjfhsdkjhfkjsdhkjfhsdkjhk<br>
             fsdhfksdfjksdhfkjsdjkfhkjsdhkjfhskjdhfkjsdhkjfhkjsdfkjsdkjfhkjsdh<br>
@@ -66,7 +66,7 @@
     -->
     <script src="main.js"></script>
 
-    <div class="Footer1">sdfsdfsdfsd</div>
+    <div class="Footer1"></div>
 
 </body>
 </html>

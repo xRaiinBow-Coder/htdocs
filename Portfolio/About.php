@@ -42,10 +42,6 @@
     
     </div>
 
-    <div class="Change">
-        <button id="Next">sdfsd</button>
-    </div>
-
     <div class="Picture">
         <img src="me.jpg" alt="Kieran" height="350px" width="350px">
         <img src="SF.png" alt="Kieran"">
