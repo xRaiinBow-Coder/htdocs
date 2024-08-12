@@ -1,1 +1,1 @@
-THIS IS PHP, CSS, HTML
+THIS IS PHP, CSS, HTML, JavaScript
