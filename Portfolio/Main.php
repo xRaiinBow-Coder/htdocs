@@ -50,7 +50,7 @@
 
     </div>
 
-    <div class="Change1">
+    <div class="Change">
         <button id="Next">Forward</button>
         <button id="Back">Back</button>
     </div>
