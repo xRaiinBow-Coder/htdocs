@@ -44,11 +44,17 @@
         </div>
     </div>
     <div class="me">
-        <img src="me.jpg" alt="image" height="350px" width="350px">
+        <img src="me.jpg" id="rotate" alt="image" height="350px" width="350px">
         <img src="coder.png" alt="image">
         <img src="PlanetE.png" alt="image" height="750px" width="750px">
 
     </div>
+
+    <div class="Change1">
+        <button id="Next">Forward</button>
+        <button id="Back">Back</button>
+    </div>
+
     <!---
     <div class="Button">
         <ul>
@@ -58,6 +64,7 @@
         </ul>
     </div>
     -->
+    <script src="main.js"></script>
 
     <div class="Footer1">sdfsdfsdfsd</div>
 

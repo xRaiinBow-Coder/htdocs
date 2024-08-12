@@ -42,15 +42,17 @@
     
     </div>
 
-    <div class="InterestButtons">
-        <button class="2"></button>
+    <div class="Change">
+        <button id="Next">sdfsd</button>
     </div>
 
     <div class="Picture">
         <img src="me.jpg" alt="Kieran" height="350px" width="350px">
-        <img src="SF.png" alt="Kieran" ">
+        <img src="SF.png" alt="Kieran"">
         <img src="grass.png" alt="Kieran" height="500px" width="500px">
     </div>
+
+    <script src="main.js"></script>
 
     <div class="Footer2">
     </div>
