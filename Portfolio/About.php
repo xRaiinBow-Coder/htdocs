@@ -20,6 +20,7 @@
             sdgfhjdsfghjsdgfhjsdgjhfghjsdgfhjgsdhjgfjhsdgjhfgjhsdgfjhgsdjhfgjhsfgsdjhgfjhsdgfjhgsd <br>
             sdgfhjdsfghjsdgfhjsdgjhfghjsdgfhjgsdhjgfjhsdgjhfgjhsdgfjhgsdjhfgjhsfgsdjhgfjhsdgfjhgsd <br>
         </p>
+        <!---
             <ul class="hobbies">
             <h1 class="i">Languages Known</h1>
             <ul class="HELP">
@@ -33,22 +34,21 @@
             <div class="Hide">
                  <p class="Uni">
                     ashdjkahsjdhjkashdjkhasjkhdjkash <br>
-                </p>
-    </div> <!--- Make a button for strava, games etc-->
+                </p> -->
+    </div> 
+    <div>
+        <button id="Hobbies">Hobbies</button>
     </div>
 
-    <div class="Hide">
-         ashdjkahsjdhjkashdjkhasjkhdjkash <br>
-    
-    </div>
 
     <div class="Picture">
-        <img src="me.jpg" alt="Kieran" height="350px" width="350px">
-        <img src="SF.png" alt="Kieran"">
-        <img src="grass.png" alt="Kieran" height="500px" width="500px">
+        <img src="pictures/me.jpg" alt="Kieran" height="350px" width="350px">
+        <img src="pictures/SF.png" alt="Kieran">
+        <img src="pictures/grass.png" alt="Kieran" height="500px" width="500px">
+
     </div>
 
-    <script src="main.js"></script>
+    <script src="About.js"></script>
 
     <div class="Footer2">
     </div>

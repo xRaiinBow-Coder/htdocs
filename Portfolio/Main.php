@@ -44,9 +44,9 @@
         </div>
     </div>
     <div class="me">
-        <img src="me.jpg" id="rotate" alt="image" height="350px" width="350px">
-        <img src="coder.png" alt="image">
-        <img src="PlanetE.png" alt="image" height="750px" width="750px">
+        <img src="pictures/me.jpg" id="rotate" alt="image" height="350px" width="350px">
+        <img src="pictures/coder.png" alt="image">
+        <img src="pictures/PlanetE.png" alt="image" height="750px" width="750px">
 
     </div>
 
@@ -64,6 +64,7 @@
         </ul>
     </div>
     -->
+
     <script src="main.js"></script>
 
     <div class="Footer1"></div>

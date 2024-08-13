@@ -1,6 +1,6 @@
 function start() {
     var rotate = document.getElementById("rotate"); 
-    var images = ['me.jpg', 'Me2.jpg']; 
+    var images = ['pictures/me.jpg', 'pictures/Me2.jpg']; 
     var num = 0;
 
     var changeImage = function(direction) {

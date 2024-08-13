@@ -119,7 +119,7 @@ body.A{
 } 
 
 .Nav li a:hover {
-    color: white;
+    color: black;
     background-color: #8ae548; 
     transform: rotate(0deg) skew(0deg) translate(0, -3px);
 }
@@ -331,3 +331,28 @@ body.B {
 
 }
 
+#Hobbies {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100px;
+    height: 100px;
+    z-index: 1;
+    border: 2px solid #0481de;
+    background: transparent;
+    text-align: center;
+    line-height: 100px;
+    overflow: hidden;
+    transition: width 1s, height 1s;
+    transform-origin: top left;
+}
+
+#Hobbies:hover {
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0;
+
+}
