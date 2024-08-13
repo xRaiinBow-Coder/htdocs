@@ -10,7 +10,7 @@
             <li><a href="Main.php">Home</a></li>
             <li><a href="About.php">About</a></li>
             <li><a href="Portfolio.php">Portfolio</a></li>
-            <li><a href="Contacts.php">Contacts</a></li>
+
         </ul>
     </div>
 

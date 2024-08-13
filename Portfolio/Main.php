@@ -11,7 +11,6 @@
             <li><a href="Main.php">Home</a></li>
             <li><a href="About.php">About</a></li>
             <li><a href="">Portfolio</a></li>
-            <li><a href="">Contacts</a></li>
         </ul>
         <div class="Button">
             <ul>
@@ -44,8 +43,8 @@
         </div>
     </div>
     <div class="me">
-        <img src="pictures/me.jpg" id="rotate" alt="image" height="350px" width="350px">
-        <img src="pictures/coder.png" alt="image">
+        <img src="pictures/me4.png" id="rotate" alt="image" height="350px" width="350px">
+        <img src="pictures/moon.png" alt="image" height="350px" width="350px">
         <img src="pictures/PlanetE.png" alt="image" height="750px" width="750px">
 
     </div>

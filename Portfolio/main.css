@@ -39,8 +39,7 @@ body.A{
     left: 0%; 
     object-fit: cover; 
     background-color: transparent;
-    z-index: 0;
-    display: none;
+    z-index: -1;
 }
 
 .Heading {
@@ -235,9 +234,9 @@ body.B {
 .Picture img:nth-child(1){
     border-radius: 45%;
     position: absolute;
-    top: 20%;
-    left: 20%;
-    z-index: 1;
+    top: 6%;
+    left: 0%;
+    z-index: -1;
 
 }
 
@@ -246,6 +245,16 @@ body.B {
     bottom: 0%;
     right: 0%;
     opacity: 0.9;
+
+}
+
+.Picture img:nth-child(4){
+    position: absolute;
+    bottom: 0%;
+    left: 0%;
+    opacity: 0.9;
+    height: 700px;
+    z-index: -1;
 
 }
 

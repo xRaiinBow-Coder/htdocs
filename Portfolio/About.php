@@ -42,9 +42,10 @@
 
 
     <div class="Picture">
-        <img src="pictures/me.jpg" alt="Kieran" height="350px" width="350px">
+        <img src="pictures/me5.png" alt="Kieran">
         <img src="pictures/SF.png" alt="Kieran">
         <img src="pictures/grass.png" alt="Kieran" height="500px" width="500px">
+        <img src="pictures/Daisey.png" alt="Kieran" height="500px" width="500px">
 
     </div>
 
