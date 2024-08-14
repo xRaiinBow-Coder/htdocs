@@ -9,7 +9,7 @@
 </head>
 <body class="B">
     <div class="Biography">
-        <h1 class="new">Me, me and me!</h1>
+        <h1 class="new">About me</h1>
         <p class="description">
             sdgfhjdsfghjsdgfhjsdgjhfghjsdgfhjgsdhjgfjhsdgjhfgjhsdgfjhgsdjhfgjhsfgsdjhgfjhsdgfjhgsd <br>
             sdgfhjdsfghjsdgfhjsdgjhfghjsdgfhjgsdhjgfjhsdgjhfgjhsdgfjhgsdjhfgjhsfgsdjhgfjhsdgfjhgsd <br>

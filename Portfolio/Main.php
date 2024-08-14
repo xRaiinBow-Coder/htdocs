@@ -28,17 +28,18 @@
     <div class="title">
         <h1 class="Heading">Programmer</h1>
         <p class="About">
-        fdshfhsjdkhfjksdjkfhkjsdhfjkhsdjkfhkjsdhkjfhsdkjhfkjsdhkjfhsdkjhk<br>
-        fsdhfksdfjksdhfkjsdjkfhkjsdhkjfhskjdhfkjsdhkjfhkjsdfkjsdkjfhkjsdh<br>
-        fshdfhjksdjkfhsdkjhfkjsdkjfhsdjkhfjksdhkjfhsdjkhfkjsdhfkjhsdkjhfk<br>
+        Im a programmer based in Newcastle Upon Tyne, England and I love<br>
+        Coding and developing my own projects. I am a full stack developer<br>
+        but I mostly work with python currently but I know many langueges.<br>
+        I am also studying software engineering at university.<br>
         </p>
 
         <div class="title2">
-            <h1 class="Heading2">Performer</h1>
+            <h1 class="Heading2">Designer</h1>
             <p class="about2">
-            fdshfhsjdkhfjksdjkfhkjsdhfjkhsdjkfhkjsdhkjfhsdkjhfkjsdhkjfhsdkjhk<br>
-            fsdhfksdfjksdhfkjsdjkfhkjsdhkjfhskjdhfkjsdhkjfhkjsdfkjsdkjfhkjsdh<br>
-            fshdfhjksdjkfhsdkjhfkjsdkjfhsdjkhfjksdhkjfhsdjkhfkjsdhfkjhsdkjhfk<br>   
+            I am naturally very creative since at a young age i was in the arts<br>
+            before i dicovered my love for coding and developing ideas and seeing<br>
+            them brought to life. I design 3d models using blender or clay too!<br>   
             </p>
         </div>
     </div>
